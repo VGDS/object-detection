@@ -1,0 +1,10 @@
+*.pyc
+*.ipynb_checkpoints
+__pycache__
+.vscode/
+models/*
+#data/
+
+# Mac files
+.DS_Store
+**/.DS_Store
